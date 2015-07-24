@@ -33,7 +33,9 @@ The only requirement in using the openweathermap API is to use JSON format.
  - Unit/Integration tests
 
 ##### How to Submit your app to us:
- - Create a pull request via git
+ - Fork this repository
+	- Create your iOS app in your repostiory
+	- When you're happy, create a pull request on this repostitory. 
  - Provide a readme which details:
      - a short description of the app and what you have made, what libraries you may have used or any comments you wish to add
      - The time you spent on the project.
