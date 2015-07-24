@@ -20,19 +20,19 @@ If an openweathermap API key is required, you can use one that we have already c
 The only requirement in using the openweathermap API is to use JSON format.
 
 
-For extra points or if you have more time:
+##### For extra points or if you have more time:
  - Custom animation of any sort to demonstrate transitions
  - Display a 3 or 5 day forecast
  - Ability to save favourite cities
 
-What we are looking for:
+##### What we are looking for:
  - Integration with a public API
  - An elegant, informative and simple to use app
  - The application must run on iOS 8.0 or later
  - The application must be able to compile and run on Xcode and be debugged in Xcode's iOS simulator
  - Unit/Integration tests
 
-How to Submit your app to us:
+##### How to Submit your app to us:
  - Create a pull request via git
  - Provide a readme which details:
      - a short description of the app and what you have made, what libraries you may have used or any comments you wish to add
