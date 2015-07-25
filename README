@@ -1,0 +1,7 @@
+
+The app gets the current location's coordinates and uses them to retrieve the weather data from OpenWeatherMap.org.
+It displays the current temperature and weather conditions as well as a today's forecast and a 5 day forecast.
+It can save favourite locations (however loading is not yet implemented) .
+It implements a refresh data feature.
+The implementation of a side bar menu that would display the favourite locations is yet to be defined.
+Working time 3h 11mins
