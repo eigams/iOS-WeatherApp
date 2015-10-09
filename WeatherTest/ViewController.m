@@ -115,6 +115,7 @@
 }
 - (IBAction)markAsFavouriteButtonPressed:(id)sender {
     
+    //add city as a favourite
     [self.dataController addFavourite];
 }
 
